@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PAGE one-word domains still available to buy.
 
-This dataset contains 4,509 .PAGE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,510 .PAGE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PAGE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=page-oneword-domains&utm_content=description.top) (4,508) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PAGE one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.page        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.page      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.page        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.page      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.page  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.page      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.page  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PAGE one word domains
 | abatic.page     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.page    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.page   | available | 50       | 1%     | 8      |           |         |         |
-| abc.page        | available | 102      | 41%    | 3      |           |         |         |
+| abc.page        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.page  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.page  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.page | available | 56       | 1%     | 10     |           |         |         |
