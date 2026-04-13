@@ -79,10 +79,10 @@ print(df.head())
 | inception.page  | available | $15.99    | —             | 74             | 22     | 9      | name.com                    |
 | manifest.page   | resell    | —         | —             | 92             | 41     | 8      | Namecheap Inc.              |
 | true.page       | premium   | $623.75   | $623.75       | 86             | 52     | 4      | name.com                    |
-| sincere.page    | available | $15.99    | $18.99        | 72             | 22     | 7      | name.com                    |
+| abundant.page   | available | $15.99    | $18.99        | 80             | 21     | 8      | name.com                    |
 | run.page        | resell    | —         | —             | 108            | 38     | 3      | Dynadot LLC.                |
 | fast.page       | premium   | $623.75   | $623.75       | 82             | 52     | 4      | name.com                    |
-| abundant.page   | available | $15.99    | $18.99        | 80             | 21     | 8      | name.com                    |
+| sincere.page    | available | $15.99    | $18.99        | 72             | 21     | 7      | name.com                    |
 | fan.page        | resell    | —         | —             | 88             | 36     | 3      | Porkbun LLC                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
