@@ -1,10 +1,10 @@
-# Available .PAGE One-Word Domains (11,526)
+# Available .PAGE One-Word Domains (11,981)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C526%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C981%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .page one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,526 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,981 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,526 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,981 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/page`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| Chanel.page       | available | $16.98    | —             | 80             | 77     | 6      | namecheap  |
-| agents.page       | resell    | —         | —             | 56             | 50     | 6      | NETIM SARL |
-| Books.page        | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap  |
-| RedSox.page       | available | $16.98    | —             | 72             | 60     | 7      | namecheap  |
-| coins.page        | premium   | $311.25   | —             | 56             | 41     | 5      | name.com   |
-| shortcuts.page    | available | $15.99    | —             | 48             | 41     | 10     | name.com   |
-| tokens.page       | premium   | $70.21    | $70.21        | 51             | 36     | 6      | namesilo   |
-| unicorns.page     | available | $15.99    | —             | 73             | 21     | 8      | name.com   |
-| aliens.page       | premium   | $70.21    | $70.21        | 56             | 35     | 6      | namesilo   |
-| HarryPotter.page  | available | $16.98    | —             | 72             | 20     | 12     | namecheap  |
-| tickets.page      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com   |
-| happier.page      | available | $15.99    | —             | 62             | 16     | 7      | name.com   |
-| Cats.page         | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap  |
-| patches.page      | available | $15.99    | —             | 53             | 16     | 7      | name.com   |
-| payments.page     | premium   | $1,248.75 | —             | 58             | 33     | 8      | name.com   |
-| advisors.page     | available | $15.99    | —             | 52             | 16     | 8      | name.com   |
-| William.page      | premium   | $348.60   | $348.60       | 74             | 31     | 7      | namecheap  |
-| solarpower.page   | available | $15.99    | —             | 84             | 15     | 11     | name.com   |
-| letsgo.page       | premium   | $73.75    | —             | 57             | 31     | 7      | name.com   |
-| fundamentals.page | available | $15.99    | —             | 74             | 15     | 12     | name.com   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Chanel.page      | available | $16.98    | —             | 80             | 77     | 6      | namecheap |
+| Books.page       | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
+| RedSox.page      | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
+| coins.page       | premium   | $311.25   | —             | 56             | 41     | 5      | name.com  |
+| shortcuts.page   | available | $15.99    | —             | 48             | 41     | 10     | name.com  |
+| aliens.page      | premium   | $70.21    | $70.21        | 56             | 35     | 6      | namesilo  |
+| unicorns.page    | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
+| tickets.page     | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
+| affiliates.page  | available | $12.79    | $12.99        | 60             | 21     | 10     | namesilo  |
+| Cats.page        | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap |
+| HarryPotter.page | available | $16.98    | —             | 72             | 20     | 12     | namecheap |
+| payments.page    | premium   | $1,248.75 | —             | 58             | 33     | 8      | name.com  |
+| smartest.page    | available | $12.79    | $12.99        | 64             | 20     | 8      | namesilo  |
+| William.page     | premium   | $348.60   | $348.60       | 74             | 31     | 7      | namecheap |
+| happier.page     | available | $15.99    | —             | 62             | 16     | 7      | name.com  |
+| letsgo.page      | premium   | $73.75    | —             | 57             | 31     | 7      | name.com  |
+| solarpower.page  | available | $15.99    | —             | 84             | 15     | 11     | name.com  |
+| solutions.page   | premium   | $623.75   | —             | 56             | 31     | 9      | name.com  |
+| sparkles.page    | available | $15.99    | —             | 62             | 15     | 8      | name.com  |
+| videos.page      | premium   | $623.75   | —             | 52             | 30     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,526 live domains                              |
+| 1,000-row public sample | 11,981 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
