@@ -772,6 +772,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 44e57329-4ff1-49ac-9b94-f982e1dcbcc0,pizzaslice.page,available,12.79,12.99,56,4,11,namesilo,,
 44e87d87-7f12-4f8c-aa41-b7cfd340ddd0,tempers.page,available,15.99,,56,2,7,name.com,,
 450fb023-fdb7-4549-96c2-826355211df2,terrifies.page,available,15.99,,39,1,9,name.com,,
+45165d83-5ae9-4eb3-8602-5a189e36a4c3,menu.page,premium,,,70,33,4,,,
 451bee4f-0f38-4d8b-8c41-2bd09028df92,comeintoeffect.page,available,15.99,,70,0,16,name.com,,
 4568cb4b-7e2e-41ed-af7c-43b9e9e7330a,promotions.page,premium,70.21,70.21,64,14,10,namesilo,,
 457873cd-9175-4f4c-8b73-b2c7480f5164,weddingcake.page,available,15.99,,85,5,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5998bbd5-4c69-474d-b792-f068905c13f8,pictorials.page,available,12.79,12.99,56,2,10,namesilo,,
 59a298b6-b404-41de-b71c-ed0ec52ec5a0,makeoneselfathome.page,available,15.99,,72,1,20,name.com,,
 59b23173-52ac-4110-b8d2-d35c240d6819,shells.page,premium,34.22,34.22,58,9,6,namesilo,,
-59bc99c4-63d0-4c7e-b995-2f3914ebd88e,grouptherapy.page,available,15.99,,72,4,13,name.com,,
