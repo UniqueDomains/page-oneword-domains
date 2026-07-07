@@ -1,10 +1,10 @@
-# Available .PAGE One-Word Domains (11,987)
+# Available .PAGE One-Word Domains (11,988)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C987%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C988%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .page one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,987 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,988 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,987 domains · **Median ask:** $80.59 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,988 domains · **Median ask:** $101.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/page`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/page`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PAGE one-word domain 
 
 ### Files
 
-- `page.csv` — public CSV extract (1,000 rows)
-- `page.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `page.csv`, public CSV extract (1,000 rows)
+- `page.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Chanel.page      | available | $16.98    | —             | 80             | 77     | 6      | namecheap |
-| Books.page       | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
-| RedSox.page      | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
-| coins.page       | premium   | $311.25   | —             | 56             | 41     | 5      | name.com  |
-| shortcuts.page   | available | $15.99    | —             | 48             | 41     | 10     | name.com  |
-| aliens.page      | premium   | $70.21    | $70.21        | 56             | 35     | 6      | namesilo  |
-| unicorns.page    | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
-| tickets.page     | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
-| affiliates.page  | available | $12.79    | $12.99        | 60             | 21     | 10     | namesilo  |
-| Cats.page        | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap |
-| HarryPotter.page | available | $16.98    | —             | 72             | 20     | 12     | namecheap |
-| payments.page    | premium   | $1,248.75 | —             | 58             | 33     | 8      | name.com  |
-| smartest.page    | available | $12.79    | $12.99        | 64             | 20     | 8      | namesilo  |
-| William.page     | premium   | $348.60   | $348.60       | 74             | 31     | 7      | namecheap |
-| happier.page     | available | $15.99    | —             | 62             | 16     | 7      | name.com  |
-| letsgo.page      | premium   | $73.75    | —             | 57             | 31     | 7      | name.com  |
-| solarpower.page  | available | $15.99    | —             | 84             | 15     | 11     | name.com  |
-| solutions.page   | premium   | $623.75   | —             | 56             | 31     | 9      | name.com  |
-| sparkles.page    | available | $15.99    | —             | 62             | 15     | 8      | name.com  |
-| videos.page      | premium   | $623.75   | —             | 52             | 30     | 6      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| fist.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
+| forum.page | resell    | —         | —             | high           | low    | 5      | Uniregistrar Corp |
+| act.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
+| howl.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
+| all.page   | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com          |
+| nyse.page  | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo          |
+| are.page   | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
+| Sony.page  | available | $12.79    | $12.99        | high           | medium | 4      | namesilo          |
+| ash.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
+| wore.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
+| bad.page   | premium   | $623.75   | —             | high           | medium | 3      | name.com          |
+| xiii.page  | available | $15.99    | $18.99        | medium         | low    | 4      | name.com          |
+| bra.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
+| abide.page | available | $15.99    | —             | high           | low    | 5      | name.com          |
+| bug.page   | premium   | $311.25   | —             | high           | low    | 3      | name.com          |
+| aloud.page | available | $12.79    | $12.99        | high           | low    | 5      | namesilo          |
+| eat.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
+| badly.page | available | $12.79    | $12.99        | medium         | low    | 5      | namesilo          |
+| ego.page   | premium   | $623.75   | —             | medium         | low    | 3      | name.com          |
+| corny.page | available | $15.99    | $18.99        | medium         | low    | 5      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,987 live domains                        |
+| 1,000-row public sample | 11,988 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .page extension. The set includes plain dictionary words, broad categories, and more expressive terms such as boat.page, woman.page, complement.page, manifest.page, artist.page, lecture.page, and yesterday.page. When comparing these domains, focus first on whether the word is strong enough to carry a standalone web identity on a less common extension. Then weigh asking price against how clear, memorable, and commercially usable the word is. For founders, the best picks are easy to say and easy to trust. For investors, the better candidates are words with broad buyer appeal and clean resale logic at a modest entry price.
+This is a focused set of one-word and short-phrase .page domain names, drawn from everyday language rather than invented brand terms. Names like watches.page, superhero.page, and flaxseed.page show the range: single nouns, compound phrases, and playful expressions, all short enough to read and remember at a glance. With a median asking price near $101 across 11,988 listings, the set spans budget-friendly options alongside pricier standouts. When comparing names here, weigh length, spelling simplicity, and how directly the word maps to a topic or product category—qualities that matter whether you're shortlisting a brand name or scanning for pricing outliers.
 
-- Prioritize clear words that stand on their own with .page
-- Use price discipline: median ask is 80.59
-- Favor broad-use words over narrow or awkward terms
-- Check trademark risk on branded or loaded terms
+- 11,988 one-word .page domains in this selection
+- Median asking price near $101 across the set
+- Short, memorable names—easy to spell and brand
+- Mix of everyday nouns, phrases, and coined terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
