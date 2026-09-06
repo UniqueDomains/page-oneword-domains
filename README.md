@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .page one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,745 domains · **Median ask:** $61.38 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/page`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| out.page   | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
-| bad.page   | premium   | $623.75   | —             | high           | medium | 3      | name.com          |
 | alar.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
 | forum.page | resell    | —         | —             | high           | low    | 5      | Uniregistrar Corp |
 | act.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
@@ -76,6 +74,7 @@ print(df.head())
 | awry.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
 | ash.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
 | fist.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
+| bad.page   | premium   | $623.75   | —             | high           | medium | 3      | name.com          |
 | howl.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
 | bra.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
 | nyse.page  | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo          |
@@ -84,6 +83,7 @@ print(df.head())
 | eat.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
 | wore.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
 | ego.page   | premium   | $623.75   | —             | medium         | low    | 3      | name.com          |
+| xcvi.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
