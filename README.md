@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .page one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,775 domains · **Median ask:** $57.34 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/page`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| out.page   | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
-| bad.page   | premium   | $623.75   | —             | high           | medium | 3      | name.com          |
-| alar.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
-| forum.page | resell    | —         | —             | high           | low    | 5      | Uniregistrar Corp |
-| act.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
-| arum.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
-| all.page   | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com          |
-| awed.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
-| are.page   | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
-| awry.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
-| ash.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
-| fist.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
-| howl.page  | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
-| bra.page   | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
-| nyse.page  | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo          |
-| bug.page   | premium   | $311.25   | —             | high           | low    | 3      | name.com          |
-| Sony.page  | available | $12.79    | $12.99        | high           | medium | 4      | namesilo          |
-| eat.page   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
-| wore.page  | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
-| ego.page   | premium   | $623.75   | —             | medium         | low    | 3      | name.com          |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| out.page    | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
+| bad.page    | premium   | $623.75   | —             | high           | medium | 3      | name.com          |
+| off.page    | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
+| period.page | premium   | $161.25   | —             | high           | low    | 6      | name.com          |
+| bang.page   | premium   | $311.25   | —             | high           | low    | 4      | name.com          |
+| alar.page   | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
+| forum.page  | resell    | —         | —             | high           | low    | 5      | Uniregistrar Corp |
+| act.page    | premium   | $1,248.75 | —             | high           | low    | 3      | name.com          |
+| arum.page   | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
+| all.page    | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com          |
+| awed.page   | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
+| are.page    | premium   | $623.75   | —             | high           | low    | 3      | name.com          |
+| awry.page   | available | $12.79    | $12.99        | low            | low    | 4      | namesilo          |
+| ash.page    | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
+| fist.page   | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
+| howl.page   | available | $12.79    | $12.99        | high           | low    | 4      | namesilo          |
+| bra.page    | premium   | $311.25   | —             | medium         | low    | 3      | name.com          |
+| nyse.page   | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo          |
+| bug.page    | premium   | $311.25   | —             | high           | low    | 3      | name.com          |
+| Sony.page   | available | $12.79    | $12.99        | high           | medium | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
