@@ -1,10 +1,10 @@
-# Available .PAGE One-Word Domains (23,363)
+# Available .PAGE One-Word Domains (25,124)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C363%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C124%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .page one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,363 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,124 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,363 domains · **Median ask:** $63.05 · **High-demand under $2,500:** 22
+**Public extract:** 1,000 rows · **Live catalog:** 25,124 domains · **Median ask:** $60.51 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/page`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ahem.page       | available | $12.98    | $16.98        | high           | low    | 4      | namecheap       |
-| realty.page     | resell    | —         | —             | high           | low    | 6      | Namecheap Inc.  |
-| all.page        | premium   | $638.72   | $638.72       | high           | medium | 3      | namesilo        |
-| akha.page       | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo        |
-| autonomous.page | resell    | —         | —             | high           | medium | 10     | Spaceship, Inc. |
-| arc.page        | premium   | $623.75   | $623.75       | high           | medium | 3      | name.com        |
-| amah.page       | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo        |
-| asl.page        | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap       |
-| asur.page       | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo        |
-| bee.page        | premium   | $623.75   | —             | high           | medium | 3      | name.com        |
-| bleb.page       | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo        |
-| biz.page        | premium   | $318.72   | $318.72       | high           | low    | 3      | namesilo        |
-| dell.page       | available | $12.79    | $12.99        | high           | medium | 4      | namesilo        |
-| coy.page        | premium   | $70.21    | $70.21        | high           | low    | 3      | namesilo        |
-| dior.page       | available | $12.79    | $12.99        | high           | medium | 4      | namesilo        |
-| dew.page        | premium   | $70.21    | $70.21        | high           | low    | 3      | namesilo        |
-| doze.page       | available | $12.79    | $12.99        | high           | low    | 4      | namesilo        |
-| dry.page        | premium   | $167.70   | $167.70       | high           | low    | 3      | namecheap       |
-| dyke.page       | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo        |
-| emi.page        | premium   | $165.12   | $165.12       | high           | low    | 3      | namesilo        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| all.page         | premium   | $638.72   | $638.72       | high           | medium | 3      | namesilo       |
+| eight.page       | premium   | $318.72   | $318.72       | high           | low    | 5      | namesilo       |
+| dear.page        | premium   | $311.25   | $311.25       | high           | low    | 4      | name.com       |
+| pass.page        | premium   | $638.72   | $638.72       | high           | low    | 4      | namesilo       |
+| gourmet.page     | premium   | $165.12   | $165.12       | high           | low    | 7      | namesilo       |
+| kind.page        | premium   | $318.72   | $318.72       | high           | low    | 4      | namesilo       |
+| cold.page        | premium   | $167.70   | $167.70       | high           | low    | 4      | namecheap      |
+| metal.page       | premium   | $648.70   | $648.70       | high           | low    | 5      | namecheap      |
+| pictures.page    | premium   | $638.72   | $638.72       | high           | low    | 8      | namesilo       |
+| individual.page  | premium   | $165.12   | $165.12       | high           | low    | 10     | namesilo       |
+| adorable.page    | premium   | $37.70    | $37.70        | high           | low    | 8      | namecheap      |
+| prompting.page   | available | $12.79    | $12.99        | high           | low    | 9      | namesilo       |
+| appointment.page | premium   | $61.27    | $61.27        | high           | low    | 11     | spaceship      |
+| holidays.page    | premium   | $318.72   | $318.72       | high           | low    | 8      | namesilo       |
+| things.page      | premium   | $516.67   | $516.67       | high           | low    | 6      | spaceship      |
+| registered.page  | premium   | $70.21    | $70.21        | high           | low    | 10     | namesilo       |
+| bear.page        | premium   | $545.26   | $545.26       | high           | medium | 4      | porkbun        |
+| ahem.page        | available | $12.98    | $16.98        | high           | low    | 4      | namecheap      |
+| realty.page      | resell    | —         | —             | high           | low    | 6      | Namecheap Inc. |
+| akha.page        | available | $12.79    | $12.99        | medium         | low    | 4      | namesilo       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,363 live domains                        |
+| 1,000-row public sample | 25,124 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 22 high-demand names under $2,500          |
+| Basic exported fields   | 24 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PAGE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
